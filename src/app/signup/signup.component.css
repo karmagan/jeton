@@ -1,0 +1,43 @@
+
+.signup{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background:#fafbfe;
+}
+.appscreen img{
+    width:300px;
+}
+.appscreen{
+    background:url('/assets/phone-bg.png');
+    background-size: cover;
+    margin:50px;
+    padding:40px 15px;
+}
+.text{
+    max-width: 40%;
+    padding:100px;
+}
+.stores{
+    display: flex;
+    margin:auto;
+    margin-top: 50px;
+    opacity:0.7;
+    height: 50px;
+    line-height: 50px;
+}
+
+h1{
+    font-weight: lighter;
+}
+
+.btn{
+    display: inline-block;
+    width:200px;
+    text-align: center;
+    padding:20px;
+    background:#4984ef;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+}

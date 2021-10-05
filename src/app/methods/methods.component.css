@@ -1,0 +1,20 @@
+.methods{
+    display: flex;
+    padding-top:100px;
+    align-items: center;
+    background: #fafafa;
+}
+.methods div{
+    width:50%;
+}
+
+img{
+    width:100%;
+}
+.text{
+    padding-left: 100px;
+}
+h1{
+    font-weight: lighter;
+    margin:0;
+}

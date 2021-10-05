@@ -1,0 +1,35 @@
+.business{
+    display: flex;
+    justify-content: space-around;
+    background:white;
+    padding:50px;
+}
+h1{
+    font-weight: lighter;
+}
+h2{
+    color:#4984ef;
+
+}
+.icon{
+    margin:20px;
+}
+.card{
+    display:flex;
+    align-items: center;
+}
+.right{
+    border:solid 1px;
+    text-align: center;
+    padding: 20px;
+}
+.btn{
+    display: inline-block;
+    width:200px;
+    text-align: center;
+    padding:20px;
+    background:#4984ef;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+}
