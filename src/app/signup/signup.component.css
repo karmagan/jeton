@@ -1,8 +1,9 @@
 
 .signup{
+    padding:10px 100px;
     display:flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background:#fafbfe;
 }
 .appscreen img{
@@ -11,12 +12,11 @@
 .appscreen{
     background:url('/assets/phone-bg.png');
     background-size: cover;
-    margin:50px;
+    /* margin:50px; */
     padding:40px 15px;
 }
 .text{
     max-width: 40%;
-    padding:100px;
 }
 .stores{
     display: flex;

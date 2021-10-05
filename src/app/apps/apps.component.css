@@ -1,0 +1,19 @@
+.apps{
+    display: flex;
+    background: white;
+    padding:20px 100px;
+}
+.apps div{
+    border:solid 1px #f6f6f6;
+    text-align: center;
+    padding:10px 100px;
+    margin:10px;
+}
+
+img{
+    width:100%
+}
+h2{
+    font-weight: lighter;
+    font-size: 1.1em;
+}

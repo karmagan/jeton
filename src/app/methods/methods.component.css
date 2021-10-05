@@ -1,18 +1,21 @@
 .methods{
     display: flex;
+    justify-content: space-between;
     padding-top:100px;
+    padding-left: 100px;
     align-items: center;
     background: #fafafa;
 }
 .methods div{
-    width:50%;
+    /* width:50%; */
 }
 
 img{
     width:100%;
 }
 .text{
-    padding-left: 100px;
+    padding: 20px;
+    width:600px;
 }
 h1{
     font-weight: lighter;

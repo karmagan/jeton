@@ -1,0 +1,23 @@
+.footer{
+    padding:10px 100px;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    display: inline-block;
+    width:100px;
+    text-align: center;
+    padding:10px;
+    background:#4984ef;
+    text-decoration: none;
+    color:white;
+    border-radius: 5px;
+    font-size: 0.8em;
+}
+.links a{
+    font-size: 0.8em;
+    margin: 10px;
+    text-decoration: none;
+    color:#bfbfbf;
+}

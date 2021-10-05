@@ -1,8 +1,8 @@
 .business{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background:white;
-    padding:50px;
+    padding:10px 100px;
 }
 h1{
     font-weight: lighter;
